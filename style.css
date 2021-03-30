@@ -31,10 +31,12 @@ main {
 
 ul {
   color: red;
+  text-align: center;
 }
 
 ol {
   color: blue;
+  text-align: center;
 }
 
 li {
