@@ -76,6 +76,11 @@ nav::after {
   list-style-position: inside;
 }
 
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
 a:link    { color: blue;  }
 a:visited { color: red;   }
 a:hover   { color: green; }
