@@ -6,6 +6,11 @@ footer {
   background-color: grey;
 }
 
+body {
+  margin: 0;
+  background-color: #eee;
+}
+
 header h1 {
   margin: 0;
   padding: 0px;
