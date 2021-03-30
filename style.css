@@ -1,3 +1,5 @@
+/* background is grey. */
+
 header {
   background-color: grey;
 }
@@ -9,6 +11,8 @@ footer {
 body {
   margin: 0;
 }
+
+/* header designates main subject. */
 
 header h1 {
   margin: 0;
