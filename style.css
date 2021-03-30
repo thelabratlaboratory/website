@@ -76,6 +76,9 @@ nav::after {
   list-style-position: inside;
 }
 
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
 
 footer h4 {
   color: white;
