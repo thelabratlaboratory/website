@@ -8,7 +8,6 @@ footer {
 
 body {
   margin: 0;
-  background-color: #eee;
 }
 
 header h1 {
@@ -36,12 +35,12 @@ main {
 
 ul {
   color: red;
-  text-align: center;
+
 }
 
 ol {
   color: blue;
-  text-align: center;
+
 }
 
 li {
