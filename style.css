@@ -68,6 +68,10 @@ nav::after {
   padding: 10px;
 }
 
+.list-inside li {
+  list-style-position: inside;
+}
+
 
 footer h4 {
   color: white;
