@@ -48,6 +48,10 @@ p {
   margin-bottom: 0px;
 }
 
+nav::after {
+  content: "after"
+}
+
 footer h4 {
   color: white;
 }
