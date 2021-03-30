@@ -29,6 +29,18 @@ main {
   
 }
 
+ul {
+  color: red;
+}
+
+ol {
+  color: blue;
+}
+
+li {
+  font-size: 24px;
+}
+
 div {
   text-align: center;
   padding: 10px;
